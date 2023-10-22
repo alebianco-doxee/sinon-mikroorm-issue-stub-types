@@ -1,0 +1,25 @@
+{
+  "name": "sinon-mikroorm-issue-stub-types",
+  "version": "1.0.0",
+  "description": "demonstration of the typescript type instantiation error when stubbing a method in mikro-orm",
+  "type": "module",
+  "scripts": {
+    "test": "tap run"
+  },
+  "engines": {
+    "node": "20.8.1"
+  },
+  "packageManager": "npm@10.1.0",
+  "dependencies": {
+    "@mikro-orm/core": "~5.8.10",
+    "@mikro-orm/postgresql": "~5.8.10",
+    "@mikro-orm/reflection": "~5.8.10",
+    "@tapjs/sinon": "~1.1.13",
+    "@types/node": "~20.8.7",
+    "@types/sinon": "~10.0.20",
+    "sinon": "~17.0.0",
+    "tap": "~18.5.2",
+    "ts-node": "~10.9.1",
+    "typescript": "~5.2.2"
+  }
+}

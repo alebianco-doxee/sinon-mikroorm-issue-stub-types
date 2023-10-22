@@ -1,0 +1,6 @@
+.idea/
+node_modules/
+temp/
+.tap/
+package-lock.json
+tsconfig.tsbuildinfo

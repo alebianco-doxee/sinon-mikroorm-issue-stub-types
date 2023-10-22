@@ -1,0 +1,4 @@
+typecheck: true
+
+plugin:
+ - "@tapjs/sinon"
